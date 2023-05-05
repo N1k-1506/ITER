@@ -23,5 +23,6 @@ public class HQ3 {
             		System.out.print(c[i]+" ");
         
 		}
+	}
 
 }
